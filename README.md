@@ -2,13 +2,13 @@
 
 The goal of this project is to solve the N-puzzle game using the A* search algorithm, Greedy search algorithm or Djikstra's  search algorithm.
 
-<table>
+<table align="center">
   <tr>
     <td><img src="https://miro.medium.com/max/420/1*HppvOLfDxXqQRFn0Cv2dHQ.gif"></td>
     <td><img width="300" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Greedy-search-path.gif"></td>
     <td><img src="https://miro.medium.com/max/420/1*2jRCHqAbTCY7W7oG5ntMOQ.gif"></td>
   </tr>
-    <tr>
+    <tr align="center">
     <td>A* search algorithm</td>
      <td>Greedy algorithm</td>
      <td>Djikstra's algorithm</td>
