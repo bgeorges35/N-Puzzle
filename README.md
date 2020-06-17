@@ -13,9 +13,9 @@ Project is composed by differents algorithms A*, Dijkstra (uniform cost) and gre
 
 <p align="center">
   <img align="left" src="https://miro.medium.com/max/420/1*HppvOLfDxXqQRFn0Cv2dHQ.gif" >
-  <em>Dijkstra’s Algorithm (Wikipedia)</em>
+  <em align="left">Dijkstra’s Algorithm (Wikipedia)</em>
   <img align="right"src="https://miro.medium.com/max/420/1*2jRCHqAbTCY7W7oG5ntMOQ.gif">
-  <em>A* Algorithm (Wikipedia)</em>
+  <em align="right">A* Algorithm (Wikipedia)</em>
   
 </p>
 
