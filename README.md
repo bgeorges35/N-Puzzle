@@ -1,6 +1,6 @@
 # N-Puzzle
 
-The goal of this project is to solve the N-puzzle game using the A* search algorithm or one of its variants.
+The goal of this project is to solve the N-puzzle game using the A* search algorithm, Greedy search algorithm or Djikstra's  search algorithm.
 
 <table align="center">
   <tr align="center">
@@ -9,7 +9,7 @@ The goal of this project is to solve the N-puzzle game using the A* search algor
     <td><img src="https://miro.medium.com/max/420/1*2jRCHqAbTCY7W7oG5ntMOQ.gif"></td>
   </tr>
     <tr align="center">
-    <td>A* search algorithm<</td>
+    <td>A* search algorithm</td>
      <td>Greedy algorithm</td>
      <td>Djikstra's algorithm</td>
     </tr>
