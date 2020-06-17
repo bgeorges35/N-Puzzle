@@ -3,43 +3,14 @@
 
 The goal of this project is to solve the N-puzzle game using the A* search algorithm or one of its variants.
 
+---
 ## ALGORITHM
 
-<img align="left" src="https://miro.medium.com/max/420/1*2jRCHqAbTCY7W7oG5ntMOQ.gif">
-
-This is the code you need to align images to the left:
-```
-<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
-```
-
-
+Project is composed by differents algorithms A*, Dijkstra (uniform cost) and greedy
 ---
-
-## ALGORITHM
-
-<img align="right" src="https://miro.medium.com/max/420/1*HppvOLfDxXqQRFn0Cv2dHQ.gif">
-
-This is the code you need to align images to the right:
-```
-<img align="right" width="100" height="100" src="http://www.fillmurray.com/100/100">
-```
-
----
-
-## `center` alignment example
+### A*
 
 <p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+  <img width="100" height="100" src="http://www.fillmurray.com/100/100">
 </p>
 
-```
-<p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
-</p>
-```
-
----
-
-## Markdown Formatting on steriods
-
-If you like this, you might enjoy [markdown-magic](https://github.com/davidwells/markdown-magic). I built it to automatically format markdown files and allow folks to sync docs/code/data from external sources. 
