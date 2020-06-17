@@ -12,12 +12,10 @@ Project is composed by differents algorithms A*, Dijkstra (uniform cost) and gre
 ### A*
 
 <p align="center">
-  <img src="https://miro.medium.com/max/420/1*HppvOLfDxXqQRFn0Cv2dHQ.gif">
+  <img align="left" src="https://miro.medium.com/max/420/1*HppvOLfDxXqQRFn0Cv2dHQ.gif" >
+  <em>Dijkstra’s Algorithm (Wikipedia)</em>
+  <img align="right"src="https://miro.medium.com/max/420/1*2jRCHqAbTCY7W7oG5ntMOQ.gif">
+  <em>A* Algorithm (Wikipedia)</em>
+  
 </p>
 
----
-### Dijkstra
-
-<p align="center">
-  <img src="https://miro.medium.com/max/420/1*2jRCHqAbTCY7W7oG5ntMOQ.gif">
-</p>
