@@ -2,8 +2,8 @@
 
 The goal of this project is to solve the N-puzzle game using the A* search algorithm or one of its variants.
 
-<table>
-  <tr>
+<table align="center">
+  <tr align="center">
     <td><img src="https://miro.medium.com/max/420/1*HppvOLfDxXqQRFn0Cv2dHQ.gif"></td>
     <td><img width = 300 src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Greedy-search-path.gif"></td>
     <td><img src="https://miro.medium.com/max/420/1*2jRCHqAbTCY7W7oG5ntMOQ.gif"></td>
@@ -11,7 +11,7 @@ The goal of this project is to solve the N-puzzle game using the A* search algor
     <tr align="center">
     <td>A* search algorithm<</td>
      <td>Greedy algorithm</td>
-     <td>Pdjikstra's algorithm</td>
+     <td>Djikstra's algorithm</td>
     </tr>
  </table>
 
