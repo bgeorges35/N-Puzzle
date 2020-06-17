@@ -2,11 +2,7 @@
 
 The goal of this project is to solve the N-puzzle game using the A* search algorithm or one of its variants.
 
-<img align="left" src= "https://miro.medium.com/max/420/1*2jRCHqAbTCY7W7oG5ntMOQ.gif" alt="Dijkstra’s Algorithm (Wikipedia)">
-
-<img align="right" src= "https://miro.medium.com/max/420/1*2jRCHqAbTCY7W7oG5ntMOQ.gif" alt="A* Algorithm (Wikipedia)">
-
-
+<img align="left" src= "https://miro.medium.com/max/420/1*2jRCHqAbTCY7W7oG5ntMOQ.gif" alt="Dijkstra’s Algorithm (Wikipedia)"/>
 
 ---
 ## Installation
