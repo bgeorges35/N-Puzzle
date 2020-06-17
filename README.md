@@ -2,6 +2,13 @@
 
 The goal of this project is to solve the N-puzzle game using the A* search algorithm or one of its variants.
 
+<img align="left" src= "https://miro.medium.com/max/420/1*2jRCHqAbTCY7W7oG5ntMOQ.gif" alt="Dijkstra’s Algorithm (Wikipedia)">
+
+<img align="right" src= "https://miro.medium.com/max/420/1*2jRCHqAbTCY7W7oG5ntMOQ.gif" alt="A* Algorithm (Wikipedia)">
+
+
+
+---
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
@@ -9,7 +16,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 ```bash
 pip install -r requirements.txt
 ```
-
+---
 ## Usage
 
 ```python npuzzle.py```
@@ -26,7 +33,7 @@ usage: npuzzle.py [-h] [-l] file
     -l, --linear  solve N-Puzzle lineary
 
 ```
-
+---
 ## Example
 
 ```
