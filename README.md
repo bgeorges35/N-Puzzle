@@ -2,21 +2,18 @@
 
 The goal of this project is to solve the N-puzzle game using the A* search algorithm or one of its variants.
 
-
-<p align="center">
-    <figure>
-        <img src="https://miro.medium.com/max/420/1*HppvOLfDxXqQRFn0Cv2dHQ.gif">
-        <figcaption>A* search algorithm</figcaption>
-    </figure>
-    <figure>
-        <img width= "300" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Greedy-search-path.gif">
-         <figcaption>Greedy algorithm</figcaption>
-    </figure>
-    <figure>
-        <img src="https://miro.medium.com/max/420/1*2jRCHqAbTCY7W7oG5ntMOQ.gif">
-         <figcaption>djikstra's algorithm</figcaption>
-    </figure>
-</p>
+<table>
+  <tr>
+    <td><img src="https://miro.medium.com/max/420/1*HppvOLfDxXqQRFn0Cv2dHQ.gif"></td>
+    <td><img width = 300 src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Greedy-search-path.gif"></td>
+    <td><img src="https://miro.medium.com/max/420/1*2jRCHqAbTCY7W7oG5ntMOQ.gif"></td>
+  </tr>
+    <tr align="center">
+    <td>A* search algorithm<</td>
+     <td>Greedy algorithm</td>
+     <td>Pdjikstra's algorithm</td>
+    </tr>
+ </table>
 
 ## Installation
 
