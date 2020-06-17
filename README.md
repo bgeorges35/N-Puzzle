@@ -6,7 +6,7 @@ The goal of this project is to solve the N-puzzle game using the A* search algor
 <p align="center">
     <img src="https://miro.medium.com/max/420/1*HppvOLfDxXqQRFn0Cv2dHQ.gif" >
     <img width= "300" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Greedy-search-path.gif" >
-    <img src="https://miro.medium.com/max/420/1*2jRCHqAbTCY7W7oG5ntMOQ.gif">
+    <img src="https://miro.medium.com/max/420/1*2jRCHqAbTCY7W7oG5ntMOQ.gif" hspace="30">
 </p>
 ## Installation
 
