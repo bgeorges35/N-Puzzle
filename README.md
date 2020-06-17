@@ -13,7 +13,7 @@ The goal of this project is to solve the N-puzzle game using the A* search algor
          <figcaption>Greedy algorithm</figcaption>
     </figure>
     <figure>
-        <img src="https://miro.medium.com/max/420/1*2jRCHqAbTCY7W7oG5ntMOQ.gif"  vspace="30">
+        <img src="https://miro.medium.com/max/420/1*2jRCHqAbTCY7W7oG5ntMOQ.gif">
          <figcaption>djikstra's algorithm</figcaption>
     </figure>
 </p>
