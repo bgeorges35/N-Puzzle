@@ -7,6 +7,7 @@ The goal of this project is to solve the N-puzzle game using the A* search algor
 ## ALGORITHM
 
 Project is composed by differents algorithms A*, Dijkstra (uniform cost) and greedy
+
 ---
 ### A*
 
