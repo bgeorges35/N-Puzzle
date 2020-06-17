@@ -5,18 +5,19 @@ The goal of this project is to solve the N-puzzle game using the A* search algor
 
 ## ALGORITHM
 
-<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
+<img align="left" src="https://miro.medium.com/max/420/1*2jRCHqAbTCY7W7oG5ntMOQ.gif">
 
 This is the code you need to align images to the left:
 ```
 <img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
 ```
 
+<img align="right" src="https://miro.medium.com/max/420/1*HppvOLfDxXqQRFn0Cv2dHQ.gif">
 ---
 
 ## ALGORITHM
 
-<img align="right" width="100" height="100" src="http://www.fillmurray.com/100/100">
+<img align="right" src="https://miro.medium.com/max/420/1*HppvOLfDxXqQRFn0Cv2dHQ.gif">
 
 This is the code you need to align images to the right:
 ```
