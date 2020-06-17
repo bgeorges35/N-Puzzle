@@ -1,38 +1,42 @@
-# N-Puzzle
 
-The goal of this project is to solve the N-puzzle game using the A* search algorithm or one of its variants.
+# Aligning images
 
-<img align="left" src= "https://miro.medium.com/max/420/1*2jRCHqAbTCY7W7oG5ntMOQ.gif" alt="Dijkstra’s Algorithm (Wikipedia)"/>
+## `left` alignment
+
+<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
+
+This is the code you need to align images to the left:
+```
+<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
+```
 
 ---
-## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+## `right` alignment
 
-```bash
-pip install -r requirements.txt
+<img align="right" width="100" height="100" src="http://www.fillmurray.com/100/100">
+
+This is the code you need to align images to the right:
 ```
+<img align="right" width="100" height="100" src="http://www.fillmurray.com/100/100">
+```
+
 ---
-## Usage
 
-```python npuzzle.py```
+## `center` alignment example
 
-```bash
-usage: npuzzle.py [-h] [-l] file
-
-  positional arguments:
-    file          path of n-puzzle file
-
-
-  optional arguments:
-    -h, --help    show this help message and exit
-    -l, --linear  solve N-Puzzle lineary
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
 
 ```
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
+```
+
 ---
-## Example
 
-```
-python npuzzle.py an_example_of_N-Puzzle
-python npuzzle.py an_example_of_N-Puzzle -l
-```
+## Markdown Formatting on steriods
+
+If you like this, you might enjoy [markdown-magic](https://github.com/davidwells/markdown-magic). I built it to automatically format markdown files and allow folks to sync docs/code/data from external sources. 
