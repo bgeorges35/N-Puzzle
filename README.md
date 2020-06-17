@@ -4,9 +4,9 @@ The goal of this project is to solve the N-puzzle game using the A* search algor
 
 
 <p align="center">
-    <img src="https://miro.medium.com/max/420/1*HppvOLfDxXqQRFn0Cv2dHQ.gif" hspace="100">
-    <img width= "300" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Greedy-search-path.gif" hspace="100">
-    <img src="https://miro.medium.com/max/420/1*2jRCHqAbTCY7W7oG5ntMOQ.gif" hspace="100">
+    <img src="https://miro.medium.com/max/420/1*HppvOLfDxXqQRFn0Cv2dHQ.gif" hspace="50">
+    <img width= "300" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Greedy-search-path.gif" hspace="50">
+    <img src="https://miro.medium.com/max/420/1*2jRCHqAbTCY7W7oG5ntMOQ.gif" hspace="50">
 </p>
 ## Installation
 
